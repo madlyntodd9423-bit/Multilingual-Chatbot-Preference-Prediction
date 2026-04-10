@@ -1,0 +1,145 @@
+﻿"id","prompt","response_a","response_b","scored"
+"327228","Caso Clínico: Un hombre de 70 años con antecedentes de cáncer testicular tratado en 1990 y cáncer gástrico tratado en 2020, es diagnosticado con leucemia mieloide aguda (LMA). El paciente inicia tratamiento con quimioterapia (12 sesiones planificadas) y se presenta en la consulta después de la primera sesión con síntomas de fatiga intensa, disnea leve, palpitaciones y mareos. Los estudios de laboratorio revelan una hemoglobina de 8 g/dL, leucocitos bajos, y plaquetas en el límite inferior de lo normal.
+
+El paciente refiere no haber tenido sangrados visibles, pero menciona sentirse más cansado de lo habitual desde el inicio del tratamiento. No tiene fiebre ni signos de infección activa.
+
+Pregunta:
+
+Con base en el cuadro clínico descrito, proponga un diagnóstico diferencial que incluya al menos tres posibles causas de la anemia en este paciente.","**Diagnóstico Diferencial de Anemia en Paciente con Leucemia Mieloide Aguda (LMA)**
+
+**Antecedentes**
+
+* Paciente de 70 años con antecedentes de cáncer testicular tratado en 1990 y cáncer gástrico tratado en 2020.
+* Diagnóstico de Leucemia Mieloide Aguda (LMA) y tratamiento con quimioterapia.
+* Síntomas de fatiga intensa, disnea leve, palpitaciones y mareos después de la primera sesión de quimioterapia.
+
+**Hallazgos Clínicos**
+
+* Hemoglobina (Hb) de 8 g/dL.
+* Leucocitos bajos.
+* Plaquetas en el límite inferior de lo normal.
+* No hay sangrados visibles, pero el paciente se siente más cansado de lo habitual.
+
+**Diagnóstico Diferencial de la Anemia**
+
+Considerando la situación clínica del paciente, se presentan tres posibles causas de anemia:
+
+### 1. **Anemia Inducida por Quimioterapia**
+
+La quimioterapia puede causar anemia debido a la destrucción de células sanguíneas en el hueso óseo. La quimioterapia puede afectar la producción de glóbulos rojos, blancos y plaquetas, lo que lleva a una anemia.
+
+### 2. **Anemia de Desfalcación**
+
+La anemia de desfalcación es una condición en la que la producción de glóbulos rojos es insuficiente debido a una falta de hierro en el cuerpo. La anemia de desfalcación es más común en personas que tienen antecedentes de cáncer y han recibido quimioterapia.
+
+### 3. **Anemia de Sobrecarga de Ferropén**
+
+La anemia de sobrecarga de ferropén se produce cuando hay un exceso de ferropén en el cuerpo, lo que impide que el cuerpo absorba el hierro de la dieta. La quimioterapia puede causar un mayor exceso de ferropén en el cuerpo, lo que lleva a esta condición.
+
+**Conclusión**
+
+En resumen, la anemia en el paciente con LMA puede estar causada por tres posibles factores: anemia inducida por quimioterapia, anemia de desfalcación y anemia de sobrecarga de ferropén. Es importante realizar más pruebas de laboratorio y estudios para determinar la causa específica de la anemia y llevar a cabo el tratamiento adecuado.","Basándonos en el caso clínico presentado, podemos proponer un diagnóstico diferencial que incluye varias posibles causas de la anemia en este paciente de 70 años con leucemia mieloide aguda (LMA) y antecedentes de cáncer testicular y cáncer gástrico. Las posibles causas de la anemia incluyen:
+
+1. **Anemia debida a la leucemia mieloide aguda (LMA)**:
+   - La LMA puede afectar directamente la producción de glóbulos rojos en la médula ósea, lo que resulta en anemia. La presencia de células leucémicas en la médula ósea puede desplazar a las células normales, incluyendo las precursoras de los glóbulos rojos (eritrocitos).
+   - La anemia en este contexto puede ser tanto consecuencia de la enfermedad subyacente como un efecto secundario de la quimioterapia.
+
+2. **Anemia por déficit de hierro**:
+   - Aunque el paciente no menciona sangrado visible, la anemia por déficit de hierro puede ocurrir debido a la pérdida crónica de hierro que puede pasar desapercibida. Esto podría ser resultado de pequeñas pérdidas de sangre internas, posiblemente relacionadas con la enfermedad gástrica previa.
+   - La quimioterapia también puede aumentar la demanda de hierro y reducir su absorción, contribuyendo a la anemia.
+
+3. **Anemia aplásica o hipoproliferativa secundaria a quimioterapia**:
+   - La quimioterapia puede dañar la médula ósea, inhibiendo la producción de todas las células sanguíneas, incluyendo los glóbulos rojos. Esto resulta en una disminución generalizada de los componentes sanguíneos, conocida como anemia aplásica o hipoproliferativa.
+   - La disminución de los leucocitos y las plaquetas también apoya esta posibilidad, ya que indica un daño generalizado en la médula ósea.
+
+4. **Anemia por hemólisis**:
+   - Aunque menos probable en este contexto, la anemia por hemólisis (destrucción acelerada de los glóbulos rojos) puede ocurrir en algunos casos de LMA, especialmente si hay complicaciones inmunológicas o autoinmunes.
+   - La presencia de anticuerpos contra los glóbulos rojos o factores de coagulación alterados pueden llevar a la hemólisis.
+
+5. **Anemia por deficiencia de vitamina B12 o ácido fólico**:
+   - Aunque menos común en pacientes con cáncer, la deficiencia de vitamina B12 o ácido fólico puede contribuir a la anemia, especialmente si hay problemas de absorción debido a la enfermedad gástrica previa.
+   - Estos déficits pueden ser exacerbados por la quimioterapia, que puede afectar la absorción intestinal.
+
+Para confirmar el diagnóstico y determinar la causa exacta de la anemia, sería necesario realizar los siguientes estudios adicionales:
+
+- **Hemograma completo**: Para evaluar más detalladamente los recuentos de glóbulos rojos, leucocitos y plaquetas.
+- **Pruebas de función renal y hepática**: Para descartar cualquier alteración que pueda afectar la producción de eritropoyetina.
+- **Pruebas de hierro sérico, ferritina y proteína C reactiva**: Para evaluar la presencia de deficiencia de hierro y signos de inflamación.
+- **Niveles de vitamina B12 y ácido fólico**: Para descartar deficiencias nutricionales.
+- **Pruebas de hemólisis**: Como lactato deshidrogenasa (LDH), bilirrubina indirecta y reticulocitos.
+- **Biopsia de médula ósea**: Para evaluar la morfología celular y confirmar el diagnóstico de LMA, así como descartar otras enfermedades hematológicas.
+
+Estos estudios ayudarán a definir el diagnóstico preciso y guiarán el manejo adecuado del paciente.","False"
+"1139415"," Peel Company received a cash dividend from a common stock investment. Should Peel report an increase in the investment account if it carries the investment at fair value or if it uses the equity method of accounting?
+
+ 	Fair Value	Equity
+a.	No	No
+b.	Yes	Yes
+c.	Yes	No
+d.	No	Yes","The correct answer is **(a) No   No**. Here's why:
+
+* **Fair Value Method:** Under the fair value method, dividends are treated as income and do not increase the investment account.  The investment itself is regularly adjusted to reflect its market value.  Dividends are considered a realization of the investment's return.
+
+* **Equity Method:** Under the equity method, the investment account is adjusted to reflect the investor's share of the investee's net income or loss. Dividends received actually *decrease* the investment account. This is because the dividends represent a distribution of the investee's profits, which the investor has already recognized as income.
+
+**In summary:** Dividends received on common stock investments are treated as income under both the fair value and equity methods. However, they do not lead to an increase in the investment account under either method.","The correct answer is **(a) No No**. Here's why:
+
+* **Fair Value Method:** When an investment is carried at fair value, changes in the market value of the investment are recognized in the income statement. Dividends received are treated as income and do not affect the investment account. The investment account is adjusted to reflect the fair value at each reporting period.
+
+* **Equity Method:** Under the equity method, the investment account is adjusted to reflect the investor's share of the investee's net income or loss. Dividends received are treated as a reduction in the investment account, as they represent a distribution of the investee's earnings that were previously recorded as part of the investment.
+
+**In both cases, the dividend received is recorded as income, but it does not increase the investment account.**","False"
+"1235630","Há um grave problema com o relógio da torre da aldeia: por um motivo ainda não compreendido pela população, o relógio para um minuto a cada dez minutos. Consegue adivinhar quanto tempo demora o ponteiro dos minutos a dar uma volta completa ao relógio?
+
+O Bruno morava numa casa para a qual só se podia entrar a partir de uma única porta e de cinco janelas. No dia em que Bruno foi cortar o cabelo, certificou-se de que não havia ninguém no interior da casa e saiu. Quando voltou, de cabelo consideravelmente mais curto e pintado de loiro, encontrou um ladrão dentro de casa. Mas a porta não tinha sido forçada e as janelas estavam intactas. Quando questionado pela polícia, o ladrão jurou a pés juntos que não tinha entrado na casa com recurso a uma chave mestra. Como pode então ter entrado na casa?
+
+","Dois problemas interessantes!
+
+**Problema 1: O relógio da torre da aldeia**
+
+Vamos analisar a situação: o relógio para um minuto a cada dez minutos. Isso significa que, a cada dez minutos, o relógio não se move por um minuto. Em seguida, ele continua a funcionar normalmente por nove minutos, até parar novamente por um minuto.
+
+Para calcular o tempo que o ponteiro dos minutos leva para dar uma volta completa, precisamos considerar o tempo total que o relógio está funcionando e o tempo que ele está parado.
+
+Uma volta completa do ponteiro dos minutos equivale a 60 minutos. No entanto, devido às paradas, o relógio não está funcionando por 1 minuto a cada 10 minutos. Isso significa que, em 60 minutos, o relógio está parado por 6 minutos (60 minutos / 10 minutos = 6 paradas de 1 minuto cada).
+
+Portanto, o tempo total que o relógio está funcionando é de 60 minutos - 6 minutos = 54 minutos.
+
+Como o ponteiro dos minutos se move 360 graus em 60 minutos, ele se move 6 graus por minuto. Em 54 minutos, ele se move 54 x 6 = 324 graus.
+
+Para dar uma volta completa, o ponteiro dos minutos precisa se mover mais 36 graus (360 - 324 = 36). Como ele se move 6 graus por minuto, ele precisará de mais 6 minutos para dar uma volta completa.
+
+Portanto, o tempo total que o ponteiro dos minutos leva para dar uma volta completa é de 60 minutos + 6 minutos = 66 minutos.
+
+**Problema 2: O ladrão na casa de Bruno**
+
+Essa é uma questão clássica de lógica!
+
+A resposta é que o ladrão entrou na casa antes de Bruno sair para cortar o cabelo. O problema afirma que Bruno ""certificou-se de que não havia ninguém no interior da casa"" antes de sair, mas não diz que ele verificou se havia alguém escondido na casa.
+
+Portanto, é possível que o ladrão estivesse escondido na casa antes de Bruno sair e tenha surgido apenas depois que Bruno voltou com o cabelo cortado e pintado de loiro. Como a porta e as janelas estavam intactas, o ladrão não precisou usar uma chave mestra para entrar na casa. Ele já estava lá!","Vamos resolver os dois problemas em sequência.
+
+### Problema 1: O Relógio da Torre
+
+O relógio da torre para um minuto a cada dez minutos. Isso significa que, em vez de avançar 10 minutos, ele avança apenas 9 minutos. Queremos descobrir quanto tempo leva para o ponteiro dos minutos dar uma volta completa ao relógio, ou seja, 60 minutos.
+
+Se o relógio avança 9 minutos a cada 10 minutos reais, podemos calcular o tempo real necessário para que o relógio avance 60 minutos (uma volta completa):
+
+- Em 10 minutos reais, o relógio avança 9 minutos.
+- Para avançar 60 minutos, precisamos de:
+
+\\[
+\\text{Tempo real} = \\frac{60 \\text{ minutos}}{9 \\text{ minutos/10 minutos reais}} = \\frac{60 \\times 10}{9} = \\frac{600}{9} \\approx 66,67 \\text{ minutos}
+\\]
+
+Portanto, o ponteiro dos minutos leva aproximadamente **66,67 minutos** para dar uma volta completa ao relógio.
+
+### Problema 2: A Entrada na Casa do Bruno
+
+O Bruno saiu de casa e, quando voltou, encontrou um ladrão dentro de casa. A porta não foi forçada e as janelas estavam intactas. O ladrão afirmou que não entrou com uma chave mestra.
+
+Aqui está a solução:
+
+O Bruno foi cortar o cabelo e voltou com o cabelo mais curto e pintado de loiro. O ladrão, que estava escondido dentro da casa quando o Bruno saiu, simplesmente esperou que ele voltasse e, ao ver o Bruno com uma aparência diferente, acreditou que ele era um estranho e não percebeu que era o próprio dono da casa. Quando o Bruno entrou, o ladrão permaneceu dentro, pensando que o Bruno era um visitante.
+
+Portanto, o ladrão entrou na casa quando o Bruno saiu e permaneceu lá até que o Bruno voltasse, sem perceber que era o próprio dono da casa.","False"
